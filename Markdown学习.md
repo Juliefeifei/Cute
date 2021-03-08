@@ -77,6 +77,20 @@ jquery：
 //超链接语法
 [我的GitHub](https://github.com/Juliefeifei)
 
+## 8.无序列表
+```
+- balabala
+- balabalabalabala
+```
+- balabala
+- balabalabalabala
 
 
+## 9.有序列表
+```
+1.balabala
+2.polabalapolabala
+```
+1.balabala
+2.polabalapolabala
 
