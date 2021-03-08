@@ -94,3 +94,9 @@ jquery：
 1.balabala
 2.polabalapolabala
 
+## 10.表格
+|  | 语文 | 数学 |
+| ---- | ---- | ---- |
+| 分数 | 99 | 98 |
+
+
