@@ -25,7 +25,7 @@ jquery：
 //加粗
 **The club isn't the beat place to find a lover so the bar is where i go.**
 //代码高亮内容
-==Me and my friends.main==
+== Me and my friends. ==
 //删除线
 ~~被删除的文字~~
 //斜体
@@ -34,8 +34,7 @@ jquery：
 //加粗
 **The club isn't the beat place to find a lover so the bar is where i go.**
 //代码高亮内容
-==highlight 1==
-== Me and my friends.main. ==
+== Me and my friends. ==
 //删除线
 ~~被删除的文字~~
 //斜体
