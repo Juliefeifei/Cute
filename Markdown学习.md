@@ -21,11 +21,11 @@ jquery：
 ###### 六级标题
 
 ## 3.字体
-```markdown
+```c
 //加粗
 **The club isn't the beat place to find a lover so the bar is where i go.**
 //代码高亮内容
-==Me and my friends.==
+==Me and my friends.main==
 //删除线
 ~~被删除的文字~~
 //斜体
@@ -34,7 +34,7 @@ jquery：
 //加粗
 **The club isn't the beat place to find a lover so the bar is where i go.**
 //代码高亮内容
-== Me and my friends main. ==
+== Me and my friends. ==
 //删除线
 ~~被删除的文字~~
 //斜体
