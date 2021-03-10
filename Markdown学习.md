@@ -35,6 +35,8 @@ jquery：
 ```markdown
 //加粗
 **The club isn't the beat place to find a lover so the bar is where i go.**
+//代码高亮内容
+`Me and my friends.`
 //删除线
 ~~被删除的文字~~
 //斜体
@@ -43,6 +45,8 @@ jquery：
 
 //加粗  
 **The club isn't the beat place to find a lover so the bar is where i go.**  
+//代码高亮内容  
+`Me and my friends.`  
 //删除线  
 ~~被删除的文字~~  
 //斜体  
@@ -57,7 +61,7 @@ jquery：
 >>>作者：c
 ```
 
-//引用语法
+//引用语法  
 >作者：a
 >>作者：b
 >>>作者：c
@@ -115,6 +119,6 @@ jquery：
 
 ## 10.表格
 
-|  | 语文 | 数学 |
+|      | 语文 | 数学 |
 | ---- | ---- | ---- |
-| 分数 | 99 | 98 |
+| 分数 | 99   | 98   |
